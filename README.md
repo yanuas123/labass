@@ -2,7 +2,7 @@
 
 This is an HTML template of an Israeli webshop earrings created for PHP server. It contains multiple pages, pop-ups with forms and a shopping cart with an animated minimized view block across all pages of the site. There are pages describing products and thematic posts. The responsive template is designed to 320 pixels.
 
-> GitHub page: LABASS
+> GitHub page: [LABASS](https://yanuas123.github.io/labass/)
 
 > [Prebuild codes](https://github.com/yanuas123/lab)
 
@@ -35,4 +35,4 @@ This is an HTML template of an Israeli webshop earrings created for PHP server. 
 
 ## License
 
-This project is licensed under the MIT License - see the LICENSE.md file for details
+This project is licensed under the MIT License - see the [LICENSE.md](License.md) file for details
